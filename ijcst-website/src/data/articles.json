@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Advancements in Machine Learning Algorithms",
+    "abstract": "This paper explores recent developments in machine learning algorithms, focusing on neural networks and their applications in predictive analytics.",
+    "authors": ["John Doe", "Jane Smith"],
+    "volume": 10,
+    "issue": 1,
+    "year": 2025,
+    "pdfUrl": "/pdfs/ml_advancements.pdf",
+    "keywords": ["machine learning", "neural networks", "predictive analytics"]
+  },
+  {
+    "id": 2,
+    "title": "Blockchain for Secure Data Storage",
+    "abstract": "An analysis of blockchain technology for enhancing data security and enabling decentralized storage solutions.",
+    "authors": ["Alice Brown", "Bob Wilson"],
+    "volume": 10,
+    "issue": 1,
+    "year": 2025,
+    "pdfUrl": "/pdfs/blockchain_storage.pdf",
+    "keywords": ["blockchain", "data security", "decentralized storage"]
+  },
+  {
+    "id": 3,
+    "title": "Quantum Computing: A New Frontier",
+    "abstract": "This paper discusses the principles of quantum computing and its potential impact on future technological advancements.",
+    "authors": ["Emma Davis"],
+    "volume": 9,
+    "issue": 2,
+    "year": 2024,
+    "pdfUrl": "/pdfs/quantum_computing.pdf",
+    "keywords": ["quantum computing", "technology", "future trends"]
+  },
+  {
+    "id": 4,
+    "title": "Cybersecurity Challenges in Cloud Computing",
+    "abstract": "Explores the security challenges faced by cloud computing environments and proposes mitigation strategies.",
+    "authors": ["Michael Chen", "Sarah Lee"],
+    "volume": 9,
+    "issue": 1,
+    "year": 2024,
+    "pdfUrl": "/pdfs/cloud_security.pdf",
+    "keywords": ["cybersecurity", "cloud computing", "security strategies"]
+  }
+]
